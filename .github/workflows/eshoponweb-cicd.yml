@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 3c922392-5cfd-4c8b-94b3-9116a5922405
-  WEBAPP-NAME: eshoponweb-webapp-naval.peptrain
+  WEBAPP-NAME: eshoponweb-webapp-naval-peptrain
 
 
 jobs:
